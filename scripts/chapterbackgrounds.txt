@@ -3,5 +3,5 @@
 
 chapters
 {
-	1	"default"
+	1	"background01"
 }
