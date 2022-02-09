@@ -3,8 +3,10 @@ ep1_gamestats.dat
 GameState.txt
 stats.txt
 voice_ban.dt
-sound/sound.cache
 cfg/config.cfg
 cfg/server_blacklist.txt
 maps/graphs/*
 screenshots/*
+demoheader.tmp
+modelsounds.cache
+*sound.cache
