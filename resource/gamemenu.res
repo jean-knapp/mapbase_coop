@@ -13,7 +13,7 @@
 	"1"
 	{
 		"label"	"HOST A GAME"
-		"command"	"OpenNewGameDialog"
+		"command"	"engine map mp_test"
 		"ingameorder"	"1"
 	}
 	"2"
