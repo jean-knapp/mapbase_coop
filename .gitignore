@@ -10,3 +10,7 @@ screenshots/*
 demoheader.tmp
 modelsounds.cache
 *sound.cache
+*.ain
+*.log
+*.prt
+*.vmf
